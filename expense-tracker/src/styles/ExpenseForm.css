@@ -1,0 +1,42 @@
+/* Expense form styling */
+.expense-form {
+  margin-bottom: 24px;
+  padding: 16px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background: #f9f9f9;
+}
+.expense-form-title {
+  margin-bottom: 12px;
+  font-size: 1.2em;
+}
+.expense-form-input {
+  padding: 8px;
+  margin-right: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+.expense-form-btn {
+  background-color: #FF9800;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.expense-form-btn:hover {
+  background-color: #F57C00;
+}
+.expense-list-title {
+  margin-top: 24px;
+  font-size: 1.1em;
+}
+.expense-list {
+  list-style: none;
+  padding: 0;
+}
+.expense-list-item {
+  padding: 6px 0;
+  border-bottom: 1px solid #eee;
+}
+

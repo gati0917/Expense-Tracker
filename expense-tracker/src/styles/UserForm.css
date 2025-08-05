@@ -1,0 +1,70 @@
+/* User table styling */
+.user-table {
+  margin-top: 20px;
+}
+
+.user-table th {
+  background-color: #fafafa; /* Matches Ant Design's table header */
+}
+
+.user-table td {
+  padding: 8px;
+}
+
+/* Edit button styling */
+.user-edit-btn {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  margin-right: 8px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+.user-edit-btn:hover {
+  background-color: #45a049;
+}
+
+/* Delete button styling */
+.user-delete-btn {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+.user-delete-btn:hover {
+  background-color: #d32f2f;
+}
+
+/* Cancel button styling */
+.user-cancel-btn {
+  background-color: #e0e0e0;
+  color: #333;
+  border: none;
+  padding: 6px 12px;
+  margin-left: 8px;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 1em;
+}
+.user-cancel-btn:hover {
+  background-color: #bdbdbd;
+}
+
+.user-edit-icon {
+  cursor: pointer;
+  font-size: 1.2em;
+  margin-right: 12px;
+  vertical-align: middle;
+  color: #4CAF50;
+}
+.user-delete-icon {
+  cursor: pointer;
+  font-size: 1.2em;
+  margin-right: 12px;
+  vertical-align: middle;
+  color: #f44336;
+  margin-right: 0;
+}

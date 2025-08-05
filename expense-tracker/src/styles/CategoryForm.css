@@ -1,0 +1,14 @@
+/* Category form styling */
+.category-form {
+  margin-bottom: 24px;
+}
+
+.category-list {
+  padding: 0;
+  list-style: none;
+}
+
+.category-list-item {
+  padding: 8px;
+  border-bottom: 1px solid #f0f0f0; /* Matches Ant Design's list divider */
+}
